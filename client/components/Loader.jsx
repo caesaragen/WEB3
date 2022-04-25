@@ -1,4 +1,4 @@
-const Loader = (props) => {
+const Loader = () => {
     return (
         <h1>
             Loader

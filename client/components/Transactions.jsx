@@ -1,4 +1,4 @@
-const Transactions = (props) => {
+const Transactions = () => {
     return (
         <h1>
             Transactions
